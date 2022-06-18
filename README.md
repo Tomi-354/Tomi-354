@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tomi-354
+- 👋 Hi, I’m @Tomi
 - 👀 I’m interested in IT and Cyber Security
 - 🌱 I’m currently learning all things related to Cyber Security. I am also taking courses on Python.
 
